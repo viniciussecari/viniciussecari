@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/website-00b598?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/felipe-oliveira-720117268/">
+  <a href="https://www.linkedin.com/in/vinicius-secari/">
     <img src="https://img.shields.io/badge/LinkedIn-00b598?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
